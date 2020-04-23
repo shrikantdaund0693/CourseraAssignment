@@ -1,0 +1,24 @@
+#heading{
+    margin-top: 0px;
+}
+#name{
+    font-weight: bold;
+    font-size: 2.5em;
+}
+#content{
+    background-color: cyan;
+    border: 1px solid black;
+    width: auto;
+    border-radius: 0px;
+    margin: 20px 50px;
+    font-size: 1.3em;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+}
+#navbar-d{
+    text-align: center;
+    border: black 1px solid;
+}
+#navbar-d li{
+    border: black 1px solid;
+}
